@@ -9,9 +9,9 @@
 - Named_CartArts - сканы полиграфии картриджей или дисков
 - Named_Snaps - скриншоты из игр, кроме скриншотов титульных экранов
 - Named_Titles - скриншоты титульных экранов
-- unreleased - неопубликованные сканы 
+- unreleased - неопубликованные сканы
 
 ## Альтернативные ссылки
 
-- [GitFlic](https://gitflic.ru/project/segamark/PC-thumbnails)
+- [GitFlic](https://gitflic.ru/project/segamark/pc-thumbnails)
 - [GitHub](https://github.com/SegaMark7/PC-thumbnails)
